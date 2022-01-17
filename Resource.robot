@@ -70,10 +70,10 @@ Clicar no botão de Login
     Sleep                            2s
 
 Inserir CPF
-    Input Text                       name:login    08073968932
+    Input Text                       name:login    xxxxxxxxxxx
 
 Inserir senha
-    Input Password                   name:senha    123456
+    Input Password                   name:senha    xxxxxx
 
 Clicar no botão entrar
     Sleep                           1s
